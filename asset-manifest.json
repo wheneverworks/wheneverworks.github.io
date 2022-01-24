@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/wheneverworks.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/wheneverworks.github.io/static/js/main.bf08e35b.js",
+    "static/js/787.c1112931.chunk.js": "/wheneverworks.github.io/static/js/787.c1112931.chunk.js",
+    "static/media/logo.svg": "/wheneverworks.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/wheneverworks.github.io/index.html",
+    "main.073c9b0a.css.map": "/wheneverworks.github.io/static/css/main.073c9b0a.css.map",
+    "main.bf08e35b.js.map": "/wheneverworks.github.io/static/js/main.bf08e35b.js.map",
+    "787.c1112931.chunk.js.map": "/wheneverworks.github.io/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.bf08e35b.js"
+  ]
+}
